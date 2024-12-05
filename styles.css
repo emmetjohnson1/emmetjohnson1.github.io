@@ -1,13 +1,13 @@
 body
 {
-    background-color: salmon;
+    background-color: #77a6f7;
     font-family: Arial, Helvetica, sans-serif;
     margin: 40px;
 }
 h1
 {
     text-align: center;
-    color:cadetblue;
+    color:#D3E3FC;
 }
 .projects 
 { 
@@ -17,10 +17,10 @@ h1
 
 .project 
 {
-width: 30%;
+width: 40%;
 margin: 10px;
 padding: 20px 10px;
-background: cadetblue; 
+background: #FFCCBC; 
 border-radius: 25%;
 }
 
@@ -29,7 +29,7 @@ project img
     width: 300px;
     height: 300px;
     margin: 10px;
-    border: 2px solid cadetblue; /* choose a color */
+    border: 2px solid #FFCCBC; /* choose a color */
     display: block;
     margin: auto;
 }
@@ -37,7 +37,7 @@ project img
 a 
 { /* change the appearance of ALL links */
     text-decoration: none;
-    color: purple;
+    color: #00887A;
 }
 
 .project p 
@@ -66,5 +66,5 @@ a
     width: 150px;
     height: 200px;
     border-radius: 25%;
-    border: 2px solid rgb(126, 14, 201);
+    border: 2px solid #D3E3FC
 }
