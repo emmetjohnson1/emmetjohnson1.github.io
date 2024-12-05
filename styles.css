@@ -27,7 +27,7 @@ border-radius: 25%;
 project img
 {
     width: 300px;
-    height: 300px;
+    /* height: 300px; */
     margin: 10px;
     border: 2px solid #FFCCBC; /* choose a color */
     display: block;
@@ -37,6 +37,7 @@ project img
 a 
 { /* change the appearance of ALL links */
     text-decoration: none;
+    text-align: center;
     color: #00887A;
 }
 
@@ -44,6 +45,7 @@ a
 { /* change the appearance of paragraph tags inside .project divs */
     text-align: center;
     margin: 15px;
+    color: #77a6f7;
 }
 
 .about
@@ -64,7 +66,7 @@ a
 .about img 
 {
     width: 150px;
-    height: 200px;
+    /*height: 200px;*/
     border-radius: 25%;
     border: 2px solid #D3E3FC
 }
